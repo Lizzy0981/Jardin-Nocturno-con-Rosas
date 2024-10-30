@@ -3,6 +3,8 @@
 Un jardín interactivo nocturno construido con HTML, CSS y JavaScript puro, que muestra flores rojas con hojas turquesa, hierbas verdes y efectos visuales sobre un fondo estrellado con luna.
 
 ## Vista pagina
+![Captura de pantalla_29-10-2024_214351_](https://github.com/user-attachments/assets/922e4462-8a57-448c-b9b6-311e7e3b5d51)
+
 
 ## Características
 
